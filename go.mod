@@ -1,4 +1,4 @@
-module protos
+module github.com/iricshkin/protos
 
 go 1.22.7
 
